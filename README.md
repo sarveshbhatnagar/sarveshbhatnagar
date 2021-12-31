@@ -29,6 +29,9 @@ I am very active on github... **Proof**
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarveshbhatnagar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
+I guess missed it, well have a look at my github tile... :)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshbhatnagar&theme=vue
 <!--
 **sarveshbhatnagar/sarveshbhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
