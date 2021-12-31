@@ -9,10 +9,6 @@ Feel free to reach me out :wink:
 
 ## Birds eye view of my journey!
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshbhatnagar&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshbhatnagar&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshbhatnagar&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshbhatnagar&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarveshbhatnagar&theme=default)
 
 <h2>About me</h2>
 ### My Story
@@ -21,6 +17,9 @@ I like to code, as apparent with my continuous github activity. I am a good prob
 ### Language Timeline
 The following is my entry and exit programming languages (mostly temporal in nature)
 **C -> C++ -> Java -> Lisp -> Python -> Haskell -> Javascript -> Dart -> Javascript -> Python (Current)**
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshbhatnagar&theme=default)
 
 About problem solving, try me :) I love fun challenges...
 
