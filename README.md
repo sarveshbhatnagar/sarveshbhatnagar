@@ -32,6 +32,9 @@ I am very active on github... **Proof**
 
 I guess missed it, well have a look at my github tile... :)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshbhatnagar&theme=default)
 <!--
 **sarveshbhatnagar/sarveshbhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
