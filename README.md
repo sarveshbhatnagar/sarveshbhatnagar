@@ -7,6 +7,13 @@ Feel free to reach me out :wink:
 <a href="https://www.github.com/sarveshbhatnagar"><img src="https://img.shields.io/github/followers/sarveshbhatnagar?style=social" alt="Github Followers"/></a>
 
 
+## Birds eye view of my journey!
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshbhatnagar&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarveshbhatnagar&theme=default)
+
 <h2>About me</h2>
 ### My Story
 I like to code, as apparent with my continuous github activity. I am a good problem solver and in a relationship with coding since my 11th grade when I was first introduced coding. Coding felt, um, natural to me. One thing that I love the most about coding is it changes the way how you think. I read somewhere before, a language that does not change the way you think is not worth learning. I loved that statement and hence, I am comfortable with different kinds of languages, let it be the old school C, or the modern python... even the less heard by the current generation lisp or functional programming language like haskell. I have coded in all these languages at some point of time, sometimes for a project while sometimes for fun.
@@ -31,10 +38,6 @@ I am very active on github... **Proof**
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarveshbhatnagar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
 I guess missed it, well have a look at my github tile... :)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarveshbhatnagar&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarveshbhatnagar&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarveshbhatnagar&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarveshbhatnagar&theme=default)
 <!--
 **sarveshbhatnagar/sarveshbhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
