@@ -2,7 +2,7 @@
 
 Feel free to reach me out :wink:
 <a href="https://www.linkedin.com/in/sarvesh08/"><img src="https://img.shields.io/badge/LinkedIn-200-blue?style=social&logo=linkedin" alt="LinkedIn Connect"/></a>
-<a href="https://twitter.com/sarvesh0829"><img src="https://img.shields.io/twitter/follow/rishika5000?style=social" alt="Twitter Follow"/></a>
+<a href="https://twitter.com/sarvesh0829"><img src="https://img.shields.io/twitter/follow/sarvesh0829?style=social" alt="Twitter Follow"/></a>
 <a href="https://www.youtube.com/channel/UCFfpO2pjYXv0fDbA14Ub14w"><img src="https://img.shields.io/youtube/channel/views/UCFfpO2pjYXv0fDbA14Ub14w?style=social" alt="Youtube Channel"/></a>
 <a href="https://www.github.com/sarveshbhatnagar"><img src="https://img.shields.io/github/followers/sarveshbhatnagar?style=social" alt="Github Followers"/></a>
 
